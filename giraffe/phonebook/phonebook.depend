@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1658431021 source:c:\users\mukte\desktop\giraffe\phonebook\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<string.h>
+
